@@ -21,15 +21,19 @@ https://luketorv.github.io/portfolio/
 ![portfolio2](https://user-images.githubusercontent.com/104324965/168904221-e6088100-273c-4606-b1ba-c2311a845252.jpg)
   
 </li>
+  <li>
+ <a>Titles are shown on hover.</a>
+   
+   ![portfolio5](https://user-images.githubusercontent.com/104324965/168905729-9feb87f0-e119-44df-a44c-106c14581c6e.jpg)
+   
 <li>
 <a>The main content will remain centered when resized. Ex: </a>
 </li>
   </ul>
   
 
-
-
-
 ![portfolio3](https://user-images.githubusercontent.com/104324965/168904223-3bde695e-b9ee-4405-a77f-7fc8d210c867.jpg)
 
 ![portfolio4](https://user-images.githubusercontent.com/104324965/168904225-132b8cc1-654c-4ed0-89da-8f56751ddd02.jpg)
+
+
