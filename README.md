@@ -8,17 +8,28 @@ https://luketorv.github.io/portfolio/
 <ul>
 <li>
 <a>Created a site with 3 links to sections about me, my work, and how to contact me.</a>
-  ![portfolio1](https://user-images.githubusercontent.com/104324965/168903671-430ee70c-62da-48e2-8bd6-5528016f379c.jpg)
+ 
+ ![portfolio1](https://user-images.githubusercontent.com/104324965/168904216-1ba4d193-7c1b-4926-be68-0b91167cb5de.jpg) 
+  
 </li>
 <li>
 <a>Each button in the header is reactive and takes you to it's corresponding section. </a>
 </li>
 <li>
 <a>Each image in "My Work" section will take you to a different project. I will be updating these links as I have more to show!</a>
-  ![portfolio2](https://user-images.githubusercontent.com/104324965/168903774-bc2ca536-c4d7-46d2-a5f5-1de24278dce6.jpg)
+  
+![portfolio2](https://user-images.githubusercontent.com/104324965/168904221-e6088100-273c-4606-b1ba-c2311a845252.jpg)
+  
 </li>
 <li>
-<a>The site will remain centered when resized.</a>
+<a>The main content will remain centered when resized. Ex: </a>
 </li>
-![portfolio3](https://user-images.githubusercontent.com/104324965/168903840-2a748594-358f-4743-bc3a-e15d302ba937.jpg)
-![portfolio4](https://user-images.githubusercontent.com/104324965/168903844-219acb2c-55ae-4877-9276-39101914ff5f.jpg)
+  </ul>
+  
+
+
+
+
+![portfolio3](https://user-images.githubusercontent.com/104324965/168904223-3bde695e-b9ee-4405-a77f-7fc8d210c867.jpg)
+
+![portfolio4](https://user-images.githubusercontent.com/104324965/168904225-132b8cc1-654c-4ed0-89da-8f56751ddd02.jpg)
