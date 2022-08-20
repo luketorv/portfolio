@@ -60,6 +60,18 @@ h2 {
 
 }
 
+.img4 {
+    width: 300px;
+    height: 100px;
+    border: solid;
+      border-top-color: white;
+      border-left-color: white;
+      border-right-color: black;
+      border-bottom-color: black;
+      color: black;
+      border-radius: 2px;
+}
+
 .img3 {
     width: 100px;
   height: 100px;
@@ -78,6 +90,11 @@ h2 {
     cursor: pointer;
 }
 .img2:hover{
+    transform: scale(1.01);
+    cursor: pointer;
+}
+
+.img4:hover{
     transform: scale(1.01);
     cursor: pointer;
 }
